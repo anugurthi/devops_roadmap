@@ -1,4 +1,4 @@
-# DevOps Learning Roadmap 2025
+# DevOps Learning Roadmap 2026
 
 A simplified, step-by-step guide to becoming a DevOps Engineer with curated learning resources.
 
