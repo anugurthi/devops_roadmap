@@ -30,7 +30,7 @@ A simplified, step-by-step guide to becoming a DevOps Engineer with curated lear
 
 ## Introduction
 
-**Image Prompt for Gemini:** "Create a modern, minimalist DevOps roadmap illustration showing a path/journey from beginner to expert, with icons representing: Git, programming, Linux penguin, cloud, containers, Kubernetes, CI/CD pipeline, monitoring dashboard, and security shield. Use blue and orange color scheme, professional style, technology-themed."
+![DevOps Roadmap](devops_roadmap.png)
 
 DevOps combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle and deliver high-quality software continuously. This roadmap provides a structured learning path with free and premium resources.
 
@@ -47,8 +47,6 @@ DevOps is a culture and set of practices that brings together software developme
 ## Learning Path
 
 ### 1. Git Version Control
-
-**Image Prompt for Gemini:** "Create an illustration showing Git workflow with branches, commits, and merges. Include GitHub/GitLab logos, pull request symbols, and collaborative coding concept. Modern, clean design with developer-friendly aesthetics."
 
 **What You'll Learn:**
 - Git fundamentals (clone, commit, push, pull)
@@ -77,8 +75,6 @@ DevOps is a culture and set of practices that brings together software developme
 
 ### 2. Programming Language
 
-**Image Prompt for Gemini:** "Create an illustration showing three programming languages: Python logo with script symbols, Go gopher mascot, and JavaScript logo. Include code snippets, automation symbols, and API integration icons. Clean, tech-focused design."
-
 **What You'll Learn:**
 - Basic programming syntax
 - Data structures and algorithms
@@ -105,8 +101,6 @@ DevOps is a culture and set of practices that brings together software developme
 ---
 
 ### 3. Linux & Scripting
-
-**Image Prompt for Gemini:** "Create an illustration of Linux terminal with command line interface, Tux penguin mascot, bash script code, and system administration icons. Include server racks, command prompts, and automation symbols. Professional, techy design."
 
 **What You'll Learn:**
 - Linux fundamentals and CLI
@@ -142,8 +136,6 @@ grep, sed, awk, cut
 
 ### 4. Networking & Security
 
-**Image Prompt for Gemini:** "Create an illustration showing network layers (OSI model), firewall symbol, DNS servers, HTTPS lock icon, TCP/IP packets, and security shield. Include network topology diagram. Professional cybersecurity theme with blue and green colors."
-
 **What You'll Learn:**
 - OSI model and TCP/IP
 - DNS and how the internet works
@@ -168,8 +160,6 @@ grep, sed, awk, cut
 
 ### 5. Server Management
 
-**Image Prompt for Gemini:** "Create an illustration showing web servers (Nginx, Apache logos), load balancer distributing traffic, reverse proxy architecture, caching layer, and server racks. Include CDN concept and high availability setup. Modern infrastructure design."
-
 **What You'll Learn:**
 - Web server configuration (Nginx, Apache)
 - Reverse proxy setup
@@ -193,8 +183,6 @@ grep, sed, awk, cut
 ---
 
 ### 6. Containers
-
-**Image Prompt for Gemini:** "Create an illustration showing Docker whale logo, containers stacked like shipping containers, Docker Compose orchestrating multiple containers, Dockerfile layers, and container registry. Include microservices architecture diagram. Modern containerization theme."
 
 **What You'll Learn:**
 - Container fundamentals
@@ -223,8 +211,6 @@ grep, sed, awk, cut
 
 ### 7. Container Orchestration
 
-**Image Prompt for Gemini:** "Create an illustration showing Kubernetes logo, cluster architecture with master and worker nodes, pods, services, and deployments. Include kubectl command line, Helm charts, and container orchestration flow. Professional K8s theme with blue colors."
-
 **What You'll Learn:**
 - Kubernetes architecture
 - Pods, Deployments, Services
@@ -252,8 +238,6 @@ grep, sed, awk, cut
 ---
 
 ### 8. Infrastructure as Code
-
-**Image Prompt for Gemini:** "Create an illustration showing Terraform logo, infrastructure as code concept with YAML/HCL files, cloud resources being provisioned (servers, databases, networks), Ansible playbooks, and automation symbols. Include version control integration. Modern IaC theme."
 
 **What You'll Learn:**
 - Infrastructure provisioning
@@ -289,8 +273,6 @@ grep, sed, awk, cut
 
 ### 9. CI/CD
 
-**Image Prompt for Gemini:** "Create an illustration showing CI/CD pipeline flow: code commit → build → test → deploy. Include GitHub Actions, Jenkins, GitLab CI logos, automated testing symbols, deployment pipeline, and continuous integration/delivery concepts. Modern DevOps pipeline theme."
-
 **What You'll Learn:**
 - CI/CD principles
 - Pipeline creation
@@ -324,8 +306,6 @@ grep, sed, awk, cut
 
 ### 10. Monitoring & Observability
 
-**Image Prompt for Gemini:** "Create an illustration showing monitoring dashboards with Grafana charts, Prometheus metrics collection, alert notifications, log analysis, observability three pillars (metrics, logs, traces), and system health monitoring. Include real-time dashboard visualization. Professional monitoring theme."
-
 **What You'll Learn:**
 - Metrics collection
 - Log aggregation
@@ -355,8 +335,6 @@ grep, sed, awk, cut
 ---
 
 ### 11. Cloud Providers
-
-**Image Prompt for Gemini:** "Create an illustration showing logos of major cloud providers: AWS, Azure, Google Cloud. Include cloud infrastructure icons (servers, databases, storage, networking), serverless functions, and multi-cloud architecture. Modern cloud computing theme with gradient background."
 
 **What You'll Learn:**
 - Cloud fundamentals
@@ -391,8 +369,6 @@ grep, sed, awk, cut
 
 ### 12. Software Engineering Practices
 
-**Image Prompt for Gemini:** "Create an illustration showing Agile/Scrum methodology: sprint board with user stories, Jira interface, team collaboration, SDLC phases (plan, develop, test, deploy), automation testing pyramid, and continuous improvement cycle. Modern software development workflow theme."
-
 **What You'll Learn:**
 - Agile methodology
 - Scrum framework
@@ -422,8 +398,6 @@ grep, sed, awk, cut
 
 ### Bonus: DevSecOps
 
-**Image Prompt for Gemini:** "Create an illustration showing security integrated into DevOps pipeline: security scanning tools (SAST/DAST), vulnerability detection, secrets management with HashiCorp Vault, security gates in CI/CD, and shield symbol over the entire pipeline. Modern DevSecOps theme with emphasis on shift-left security."
-
 **What You'll Learn:**
 - Security in CI/CD pipelines
 - Static/Dynamic application security testing
@@ -449,7 +423,7 @@ grep, sed, awk, cut
 
 ## DevOps Tools Overview
 
-**Image Prompt for Gemini:** "Create a comprehensive DevOps tools landscape diagram showing categories: version control (Git), CI/CD (Jenkins, GitHub Actions, GitLab), containers (Docker, Kubernetes), IaC (Terraform, Ansible), monitoring (Prometheus, Grafana), cloud (AWS, Azure, GCP). Organized in a circular or layered architecture. Professional tools ecosystem visualization."
+![DevOps Tools Overview](devops_tools.png)
 
 ### By Category:
 
@@ -480,8 +454,6 @@ grep, sed, awk, cut
 ---
 
 ## Recommended Books
-
-**Image Prompt for Gemini:** "Create an illustration showing a stack of DevOps books with visible titles, alongside a reading desk with laptop, coffee cup, and DevOps symbols. Include book spines showing: The DevOps Handbook, The Phoenix Project, Site Reliability Engineering. Cozy learning environment theme."
 
 ### Essential Reading:
 
