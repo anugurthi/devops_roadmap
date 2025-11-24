@@ -207,8 +207,11 @@ A comprehensive guide to popular DevOps certifications that can boost your caree
 - **Validity**: 2 years
 - **Focus**: Jenkins usage, pipelines, plugins
 
-**2. GitHub Actions Certification**
-- Currently no official certification, but expertise valued
+**2. GitHub Certifications**
+- **GitHub Foundations**: Understanding GitHub platform tools and features.
+- **GitHub Actions**: Automating workflows.
+- **GitHub Advanced Security**: Code security and secret scanning.
+- **GitHub Administration**: Managing GitHub Enterprise.
 
 ---
 
@@ -330,6 +333,11 @@ A comprehensive guide to popular DevOps certifications that can boost your caree
 - Start: Cloud security basics
 - Progress: CKS
 - Advanced: Cloud security specialty certs
+
+**For AI & Data Focus:**
+- **AWS Certified AI Practitioner**: Foundational AI/ML concepts on AWS.
+- **Microsoft Azure AI Fundamentals (AI-900)**: AI workloads and considerations on Azure.
+- **Google Cloud Professional Machine Learning Engineer**: Designing and building ML models.
 
 ---
 

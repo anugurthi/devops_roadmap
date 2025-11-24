@@ -208,6 +208,19 @@ Hands-on projects to build your DevOps portfolio and gain practical experience.
 
 ---
 
+### 13. Local LLM API Service
+**Skills**: Docker, Python, LLMs, API
+**Description**: Deploy a local Large Language Model (LLM) and expose it via an API.
+**Steps**:
+1.  Use Ollama or vLLM to run a model (e.g., Llama 3)
+2.  Wrap it in a FastAPI service
+3.  Containerize the application
+4.  Implement a simple chat UI
+5.  Add rate limiting and caching
+**Learning Outcomes**: AI Engineering, API design, Containerization of heavy workloads
+
+---
+
 ## 📝 Project Documentation Tips
 
 For each project, document:

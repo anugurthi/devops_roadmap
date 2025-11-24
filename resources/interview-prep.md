@@ -14,6 +14,7 @@ A comprehensive guide to common DevOps interview questions and answers.
 - [Cloud Platforms](#cloud-platforms)
 - [Monitoring & Logging](#monitoring--logging)
 - [Security](#security)
+- [Modern DevOps Trends](#modern-devops-trends)
 - [Behavioral Questions](#behavioral-questions)
 - [System Design](#system-design)
 
@@ -630,6 +631,34 @@ terraform {
 - Tools: OWASP ZAP, Burp Suite
 
 **Use both** for comprehensive security!
+
+---
+
+## Modern DevOps Trends
+
+### Q37: What is Platform Engineering and how does it differ from DevOps?
+**Answer**:
+- **DevOps**: A culture/methodology focused on collaboration and automation.
+- **Platform Engineering**: A discipline of building and maintaining internal developer platforms (IDPs) to enable self-service.
+- **Goal**: Platform Engineering aims to reduce cognitive load on developers by providing "Golden Paths" (standardized, supported workflows).
+
+### Q38: What is GitOps?
+**Answer**: GitOps is a way of implementing Continuous Deployment for cloud native applications.
+- **Principle**: Git is the single source of truth for the desired state of the system.
+- **Mechanism**: An agent (like ArgoCD or Flux) runs in the cluster and pulls changes from Git, ensuring the live state matches the Git state.
+- **Difference from CI/CD**: Traditional CD pushes changes to the cluster; GitOps pulls changes from Git.
+
+### Q39: How can AI be used in DevOps?
+**Answer**:
+- **Code Generation**: Using tools like Copilot to write scripts and IaC.
+- **AIOps**: Using AI to analyze logs/metrics and detect anomalies automatically.
+- **Incident Response**: Automated root cause analysis and remediation suggestions.
+- **Post-mortems**: Summarizing incident chats and logs.
+
+### Q40: What is FinOps?
+**Answer**: FinOps is the practice of bringing financial accountability to the variable spend model of cloud.
+- **Goal**: Enable teams to make trade-offs between speed, cost, and quality.
+- **Practices**: Tagging resources, setting budgets, rightsizing instances, using spot instances.
 
 ---
 
