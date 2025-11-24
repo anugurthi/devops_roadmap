@@ -2,6 +2,8 @@
 
 A simplified, step-by-step guide to becoming a DevOps Engineer with curated learning resources.
 
+**[follow](https://github.com/anugurthi) and Click ⭐ if you like the project. Pull Requests are highly appreciated.**
+
 ---
 
 ## 📋 Table of Contents
