@@ -75,6 +75,7 @@ sudo apt-get install git
    - [DevOps Discord servers](https://discord.com/)
    - Local DevOps meetups
 5. **Don't Skip Fundamentals**: Linux and networking are critical
+6. **Use AI Responsibly**: Tools like GitHub Copilot and ChatGPT are great helpers, but ensure you understand the code they generate. Don't copy-paste blindly!
 
 ## 🚫 Common Mistakes to Avoid
 

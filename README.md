@@ -20,7 +20,9 @@ A simplified, step-by-step guide to becoming a DevOps Engineer with curated lear
    - [10. Monitoring & Observability](#10-monitoring--observability)
    - [11. Cloud Providers](#11-cloud-providers)
    - [12. Software Engineering Practices](#12-software-engineering-practices)
-   - [Bonus: DevSecOps](#bonus-devsecops)
+   - [13. AI & DevOps](#13-ai--devops)
+   - [14. Platform Engineering](#14-platform-engineering)
+   - [15. DevSecOps](#15-devsecops)
 3. [DevOps Tools Overview](#devops-tools-overview)
 4. [Recommended Books](#recommended-books)
 5. [Contributing](#contributing)
@@ -302,6 +304,12 @@ grep, sed, awk, cut
 4. **Deploy**: Deploy to environments
 5. **Monitor**: Track deployment health
 
+### GitOps (Modern CD)
+**What is GitOps?**
+Using Git as the single source of truth for declarative infrastructure and applications.
+- **Tools**: ArgoCD, Flux
+- **Concept**: Changes in Git trigger automatic updates in the cluster.
+
 ---
 
 ### 10. Monitoring & Observability
@@ -364,6 +372,7 @@ grep, sed, awk, cut
 - **Networking**: VPCs, load balancers, CDN
 - **Security**: IAM, encryption, compliance
 - **Monitoring**: CloudWatch, Azure Monitor, Cloud Monitoring
+- **FinOps**: Cloud cost management and optimization
 
 ---
 
@@ -396,7 +405,36 @@ grep, sed, awk, cut
 
 ---
 
-### Bonus: DevSecOps
+### 13. AI & DevOps
+
+**What You'll Learn:**
+- Generative AI for coding (Copilot, Cursor)
+- AIOps (Automated remediation)
+- LLM Ops (Deploying and managing models)
+- Prompt Engineering for DevOps
+
+**Tools & Concepts:**
+- **Coding Assistants**: GitHub Copilot, Cursor, Codeium
+- **AIOps**: Dynatrace Davis, Datadog Watchdog
+- **LLM Deployment**: Ollama, vLLM, Hugging Face
+
+---
+
+### 14. Platform Engineering
+
+**What You'll Learn:**
+- Internal Developer Platforms (IDP)
+- Self-service infrastructure
+- Reducing cognitive load for developers
+
+**Popular Tools:**
+- **Backstage**: Open platform for building developer portals
+- **Port**: Internal developer portal
+- **Humanitec**: Platform orchestrator
+
+---
+
+### 15. DevSecOps
 
 **What You'll Learn:**
 - Security in CI/CD pipelines
